@@ -25,7 +25,17 @@
 .form-control-radius {
   border-radius: 13px;
 }
-
+.image-content img {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #eaeaea;
+  margin: 10px;
+  cursor: pointer;
+}
+.border-test {
+  box-shadow: 0px 0px 6px -5px black;
+  border-radius: 10px;
+}
 .navlink-control {
   font-size: 13px;
   color: rgba(49, 53, 59, 0.68);
