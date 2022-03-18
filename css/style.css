@@ -1,0 +1,65 @@
+.header-tokopedia {
+  background-color: #f3f4f5;
+  display: flex;
+  align-items: center;
+  z-index: 9999;
+  flex-wrap: nowrap;
+}
+
+.header-tokopedia span {
+  color: rgba(49, 53, 59, 0.68);
+  font-size: 13px;
+  font-family: "open sans", "tahoma", sans-serif;
+  margin: 13px;
+}
+
+.img-header-qr {
+  height: 20px;
+  margin: 5px;
+  padding-left: 15px;
+}
+.banner {
+  padding-left: 22.5px;
+}
+
+.form-control-radius {
+  border-radius: 13px;
+}
+
+.navlink-control {
+  font-size: 13px;
+  color: rgba(49, 53, 59, 0.68);
+  margin: 5px;
+}
+
+.navlink-control:hover {
+  color: #03ac0e;
+}
+
+.icon-control {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 5px 0 20px;
+  z-index: 475;
+}
+
+.icon-control-account {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 5px 0 20px;
+  z-index: 475;
+}
+
+.trashs {
+  margin-left: 25px;
+}
+
+a {
+  color: rgba(49, 53, 59, 0.68);
+  text-decoration: none;
+}
+a:hover {
+  color: #03ac0e;
+}
