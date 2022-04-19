@@ -1,0 +1,136 @@
+.header-tokopedia {
+  background-color: #f3f4f5;
+  display: flex;
+  align-items: center;
+  z-index: 9999;
+  flex-wrap: nowrap;
+  padding-top: 1px;
+}
+
+.header-tokopedia span {
+  color: rgba(49, 53, 59, 0.68);
+  font-size: 13px;
+  font-family: "open sans", "tahoma", sans-serif;
+  margin: 13px;
+}
+
+.img-header-qr {
+  height: 20px;
+  margin: 5px;
+  margin-left: 10px;
+}
+.banner {
+  padding-left: 22.5px;
+}
+
+.img-screens {
+  margin: 2.5px 0 0 25px;
+}
+.teks-bawah {
+  margin-left: 16%;
+}
+
+.teks-bawah span:hover {
+  color: #03ac0e;
+  cursor: pointer;
+}
+
+.form-control-radius {
+  border-radius: 13px;
+}
+.image-content img {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #eaeaea;
+  margin: 10px;
+  cursor: pointer;
+}
+.border-test {
+  box-shadow: 0px 0px 6px -5px black;
+  border-radius: 10px;
+}
+.navlink-control {
+  font-size: 13px;
+  color: rgba(49, 53, 59, 0.68);
+  margin: 5px;
+}
+
+.navlink-control:hover {
+  color: #03ac0e;
+}
+
+.icon-control {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 5px 0 20px;
+  z-index: 475;
+}
+
+.icon-control-account {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 5px 0 20px;
+  z-index: 475;
+}
+
+.trashs {
+  margin-left: 25px;
+}
+
+a {
+  color: rgba(49, 53, 59, 0.68);
+  text-decoration: none;
+}
+a:hover {
+  color: #03ac0e;
+}
+
+.nav-kedua {
+  box-shadow: 0 5px 6px -6px #222;
+}
+.recom-item a {
+  font-size: 12px;
+}
+.location {
+  position: absolute;
+  right: 15px;
+  font-size: 13px;
+}
+.search-bar {
+  width: 75%;
+  float: left;
+  border-radius: 13px;
+}
+
+span {
+  cursor: pointer;
+}
+.carousel .carousel-indicators button {
+  border-radius: 100%;
+  width: 12px;
+  height: 12px;
+}
+.top-up-item {
+  font-family: Tahoma;
+  font-weight: bold;
+  color: #979797;
+}
+
+.top-up-item:hover {
+  color: black;
+}
+
+.all-items {
+  color: rgb(23, 163, 23);
+}
+.item-bot {
+  border-bottom: 2px solid rgb(10, 172, 45);
+  color: rgb(29, 188, 29);
+  pointer-events: none;
+}
+
+.ellipse-vertical {
+  border-left: 2px solid #eaeaea;
+}
